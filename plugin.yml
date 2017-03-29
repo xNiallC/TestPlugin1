@@ -1,0 +1,7 @@
+name: TestPlugin
+main: io.github.xNiallC.TestPlugin
+version: 1.0
+commands:
+  GetItems:
+    description: Get a diamond
+    usage: /GetItems
